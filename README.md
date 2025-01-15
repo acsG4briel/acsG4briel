@@ -1,7 +1,14 @@
-PT/BR
-Meu nome é Gabriel, tenho 22 anos e sou desenvolvedor Web Fullstack, em busca de novos aprendizados e desafios na área!
-EN/US
-22-year-old Fullstack Web Developer, always seeking new learning opportunities and challenges in the field!
+
+
+# Olá! Eu sou Gabriel 👋
+
+🎨 Meu nome é Gabriel, tenho 22 anos e sou desenvolvedor Web Fullstack, em busca de novos aprendizados e desafios na área!
+
+---
+
+# EN/US
+
+🎨 22-year-old Fullstack Web Developer, always seeking new learning opportunities and challenges in the field!
 
 <div align='center' display='flex' justifyContent='center' alignItems='center'>
         <img src="https://github-readme-stats.vercel.app/api?username=acsG4briel&bg_color=071A2C&theme=transparent&include_all_commits=true" alt="light-city's stats"/>
